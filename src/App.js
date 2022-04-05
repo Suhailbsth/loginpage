@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <main className="flex items-center justify-center w-full mt-20 h-screen flex-1 px-2.5 text-center bg-cyan-700">
+    <main className="flex items-center justify-center w-full h-screen flex-1 px-2.5 text-center bg-cyan-700">
     <div className="bg-white rounded-2xl shadow-2xl flex w-2/3 max-w-4xl h-5/6">
        <div className="w-1/2 py-12 px-20 font-thin" >
          <h1 className="text-4xl pt-16">Welcome Back</h1>
